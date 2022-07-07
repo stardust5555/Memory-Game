@@ -1,0 +1,10 @@
+/* base styles*/
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+  margin:0;
+  font-size: 1.5em;
+  text-align: center;
+  background: #1b1523;
+  color: #fff;
+}
